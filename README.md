@@ -46,10 +46,10 @@ Welcome to the **Movie Budget & Financial Performance Records** analysis project
 
 ## Visualizations Generated
 The project features several key statistical plots that have been saved directly to the workspace:
-* `budget_vs_revenue_scatter.png` — General distribution of production costs vs. worldwide gross.
-* `movie_trends_over_years.png` — A detailed bubble plot scaling dots by revenue across different release decades.
-* `old_films_regression.png` — Linear trend line for classic cinema data.
-* `new_films_regression.png` — High-resolution regression plot showing modern box office trajectory.
+* `results/budget_vs_revenue_scatter.png` — General distribution of production costs vs. worldwide gross.
+* `results/movie_trends_over_years.png` — A detailed bubble plot scaling dots by revenue across different release decades.
+* `results/old_films_regression.png` — Linear trend line for classic cinema data.
+* `results/new_films_regression.png` — High-resolution regression plot showing modern box office trajectory.
 
 ---
 
