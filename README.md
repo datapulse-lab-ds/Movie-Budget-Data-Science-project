@@ -1,5 +1,3 @@
-# Movie-Budget-Data-Science-project
-
 # Movie Budget & Revenue Prediction using Linear Regression
 
 Welcome to the **Movie Budget & Financial Performance Records** analysis project, conducted at **DataPulse Data Science Lab**. This project explores how film industry budgets have evolved over time and uses Machine Learning to predict worldwide box office revenue based on production costs.
